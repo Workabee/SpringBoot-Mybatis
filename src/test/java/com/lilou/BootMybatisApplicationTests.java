@@ -13,4 +13,6 @@ public class BootMybatisApplicationTests {
 	public void contextLoads() {
 	}
 
+
+	//测试jenkins
 }
