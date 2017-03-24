@@ -15,4 +15,6 @@ public class BootMybatisApplicationTests {
 
 
 	//测试jenkins
+	//2 测试jenkins
+
 }
